@@ -76,8 +76,8 @@ img{
 }
 
 .hero.blog{
-    background: url('/image_resources/blog/blog2.jpg') no-repeat center center/cover;
-    height: 30vh;
+    background: url('/image_resources/home/blog.jpg') no-repeat center center/cover;
+    height: 20vh;
 }
 
 .hero .content {
